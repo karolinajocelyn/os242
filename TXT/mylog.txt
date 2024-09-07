@@ -14,3 +14,4 @@ ZCZC W01 200 L09 Weekly Assignment 1
 ZCZC W01 30 L09 Pop Quiz 1
 ZCZC W01 120 L05 Studying for Quiz 1
 ZCZC W01 20 L05 Quiz 1
+ZCZC W01 100 L09 Reading Assignment The ATM Way: GSGS and Read

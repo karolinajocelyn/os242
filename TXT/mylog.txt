@@ -20,6 +20,11 @@ ZCZC W01 20 L05 Quiz 1
 ZCZC W01 100 L09 Reading Assignment The ATM Way: GSGS and Read
 ZCZC W01 15 L41 Updated mylog.txt with a better format
 
+
+
+
+
+===== LOG CODES DESCRIPTION =====
 #ZCZC WEEK# MINUTES LogCode Description
 L00 General, etc.
 L01 SCELE/Discord related

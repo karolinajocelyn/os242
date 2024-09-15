@@ -27,6 +27,7 @@ permalink: LINKS/
 2. [Recording Week02: C Programming](https://www.youtube.com/watch?v=F_o4mjBVbio&t=4595s): As someone who has coded with C before, I was still surprised with some things he showed here. This video unpacks lots of things, including data types, pointers, PID, and much more!
 3. [C Programming Language - Intro to Computer Science - Harvard's CS50 (2018)](https://www.youtube.com/watch?v=ix5jPkxsr7M): This video was my first introduction to programming. Yes, my first programming language was C, but I soon dropped it and moved to C++. David J Malan is an amazing lecturer. He explained numerous concepts in great detail here, but in a way that is easy to digest. It may be a little too easy for coders that are more familiar with computational thinking from using other languages such as Python and Java, but I would still **very much** recommend this to anyone.
 4. [Difference Between Security and Protection](https://www.geeksforgeeks.org/difference-between-security-and-protection/): Before reading this, I seriously thought these two methods are the same thing...
+5. [Security Attacks](https://www.youtube.com/watch?v=yIm0Ol9Dg4Y): A short but complete video on active and passive security attacks, and types of active security attacks, such as Masquerade, Replay, DDOS, and others!
 
 <br>
 

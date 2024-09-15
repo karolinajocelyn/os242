@@ -1,10 +1,10 @@
 # OS242
 
-Hi! Welcome to my GitHub page for Operating Systems 2024 where I post my links and logs for this class.
+Hi! Welcome to my GitHub page for Operating Systems 2024 where I post my links and logs for this class. The “Links” page is filled with informative links about the specified week’s materials that I watched. Some of them boosted my quiz scores! The “LOG” page specifies the time I allocated for studying operating systems, attending classes, doing quizzes and assignments, and much more. Enjoy my page! :D
 
 **[LINKS](links.md)** | **[LOG](TXT/mylog.txt)** | **[GitHub](https://github.com/karolinajocelyn/os242/)**
 
 <br>
 
 ---
-###### LastRev: Sunday, 8 September 2024 09:11
+###### LastRev: Sunday, 15 September 2024 06:02

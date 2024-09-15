@@ -22,13 +22,12 @@ permalink: LINKS/
 3. [Shell Scripting for Beginners – How to Write Bash Scripts in Linux](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/): For first time scripters! This website is very comprehensive and easy to follow for beginners. I learnt a lot from here.
 4. [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/abs-guide.pdf): A complete guide for scripting after understanding the basics from link number 3.
 
-## W02: Security, Protection, Privacy, & C-language.
+## W02: Security, Protection, Privacy, & C-language
 1. [Recording Week02: Protection and Security](https://www.youtube.com/watch?v=QpmAKN9j2ks): Quick lecture on Protection and Security. The lecturer explained the concepts in a way that is very easy to understand for me.
 2. [Recording Week02: C Programming](https://www.youtube.com/watch?v=F_o4mjBVbio&t=4595s): As someone who has coded with C before, I was still surprised with some things he showed here. This video unpacks lots of things, including data types, pointers, PID, and much more!
 3. [C Programming Language - Intro to Computer Science - Harvard's CS50 (2018)](https://www.youtube.com/watch?v=ix5jPkxsr7M): This video was my first introduction to programming. Yes, my first programming language was C, but I soon dropped it and moved to C++. David J Malan is an amazing lecturer. He explained numerous concepts in great detail here, but in a way that is easy to digest. It may be a little too easy for coders that are more familiar with computational thinking from using other languages such as Python and Java, but I would still **very much** recommend this to anyone.
 4. [Difference Between Security and Protection](https://www.geeksforgeeks.org/difference-between-security-and-protection/): Before reading this, I seriously thought these two methods are the same thing...
 
-<br>>
-
+<br>
 ---
 ###### LastRev: Sunday, 15 September 2024 21:00

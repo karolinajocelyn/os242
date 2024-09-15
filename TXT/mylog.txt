@@ -20,9 +20,17 @@ ZCZC W01 20 L05 Quiz 1
 ZCZC W01 100 L09 Reading Assignment The ATM Way: GSGS and Read
 ZCZC W01 15 L41 Updated mylog.txt with a better format
 
-
-
-
+===== W02 =====
+ZCZC W02 100 L05 Studied Security, Protection, and Privacy from Mr. Anwar's OS videos
+ZCZC W02 100 L05 Studied C language programming from Mr. Anwar's OS videos
+ZCZC W02 30 L01 Cumulative time looking for updates on OS SCELE
+ZCZC W02 60 L05 Studying for Quiz 2
+ZCZC W02 20 L05 Quiz 2
+ZCZC W02 180 L12 Did Assignment 2
+ZCZC W02 120 L06 Searched for relevant links and videos to update links.md
+ZCZC W02 30 L03 Prettify index.md
+ZCZC W02 30 L08 Discussed OS Assignment 2 with a friend
+ZCZC W02 30 L12 Did Pop Quiz 2
 
 ===== LOG CODES DESCRIPTION =====
 #ZCZC WEEK# MINUTES LogCode Description

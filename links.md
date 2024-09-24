@@ -29,7 +29,13 @@ permalink: LINKS/
 4. [Difference Between Security and Protection](https://www.geeksforgeeks.org/difference-between-security-and-protection/): Before reading this, I seriously thought these two methods are the same thing...
 5. [Security Attacks](https://www.youtube.com/watch?v=yIm0Ol9Dg4Y): A short but complete video on active and passive security attacks, and types of active security attacks, such as Masquerade, Replay, DDOS, and others!
 
+## W03: File System & FUSE
+1. [Recording Week04: File System & FUSE](https://www.youtube.com/watch?v=PBkZynNIZWk): Another great lecture from Mr. Anwar!
+2. [What is a FUSE filesystem? | Jan 2023](https://medium.com/@goamaral/fuse-filesystem-b44768f27aa2): This website feels like a useful resource for developers curious about FUSE but may feel a bit technical or overwhelming for beginners, though it's clear the author is passionate and provides detailed, practical examples.
+3. [File System vs. Partition Table](https://www.pitsdatarecovery.co.uk/blog/file-system-vs-partition-table/): The article provides a clear and concise explanation of the difference between a partition table and a file system. It's a great resource for understanding how storage devices are organized.
+4. [File & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM): I really recommend this video as the person explains it in such an easy and interesting way. Go give it a watch!
+
 <br>
 
 ---
-###### LastRev: Sunday, 15 September 2024 21:00
+###### LastRev: Tuesday, 24 September 2024 22:59

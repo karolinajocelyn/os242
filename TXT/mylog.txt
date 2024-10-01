@@ -41,6 +41,15 @@ ZCZC W03 120 L06 Searched for relevant links and videos on File System & FUSE to
 ZCZC W03 30 L08 Discussed OS Assignment 3 (File System & USE) with a friend
 ZCZC W03 240 L31 Reinstalled debian guest on UTM because of an error on the last one
 
+===== W04 =====
+ZCZC W04 120 L02 Watched Mr Anwar's Video about Addressing
+ZCZC W04 180 L14 Did Assignment 4
+ZCZC W04 30 L01 Cumulative time looking for updates on OS SCELE
+ZCZC W04 60 L14 Did Pop Quiz 4 on SCELE
+ZCZC W04 30 L08 Discussed OS Assignment 4 with my friends
+ZCZC W04 120 L32 Watched OS videos regarding Addressing to put on mylinks
+ZCZC W04 60 L08 Asked teaching assistants regarding TARBALL
+ZCZC W04 120 L05 Study for next quiz 
 
 ===== LOG CODES DESCRIPTION =====
 #ZCZC WEEK# MINUTES LogCode Description

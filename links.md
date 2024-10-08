@@ -35,7 +35,19 @@ permalink: LINKS/
 3. [File System vs. Partition Table](https://www.pitsdatarecovery.co.uk/blog/file-system-vs-partition-table/): The article provides a clear and concise explanation of the difference between a partition table and a file system. It's a great resource for understanding how storage devices are organized.
 4. [File & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM): I really recommend this video as the person explains it in such an easy and interesting way. Go give it a watch!
 
+## W04: Addressing, Shared Lib, & Pointer
+1. [Recording Week05: Addressing, Shared Lib, & Pointer](https://www.youtube.com/watch?v=uFj7mKNq1t0): As Sir RMS was too sick to teach on Monday, we all watched this lecture video by Mr. Anwar!
+2. [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM): Honestly as a CS student, I have never really understood pointers before watching this video. This video explains it in a very understandable manner so I would really recommend this video!
+3. [Pointers in C / C++](https://www.youtube.com/watch?v=zuegQmMdy8M): This is a very long 3 hour full course on Pointers in C language. Although I have only watched a part of it, the lecturer explains the materials with examples that are fun to understand.
+4. [What is difference between Dynamic and Static library(Static and Dynamic linking)](https://www.youtube.com/watch?v=eW5he5uFBNM): Great short video about dynamic library linking.
+
+## W05: Virtual Memory
+1. [Week06: Virtual Memory Recording](https://www.youtube.com/watch?v=y0LkcoFO1jU): This recording covers Week 6's lecture, focusing on virtual memory concepts and how they apply to modern operating systems. Great for a detailed walkthrough of the topic.
+2. [Segmented, Paged, and Virtual Memory](https://www.youtube.com/watch?v=p9yZNLeOj4s): This video explains the differences between segmented and paged memory and how virtual memory systems combine these concepts. A concise and visual explanation of memory management.
+3. [But, what is virtual memory?](https://www.youtube.com/watch?v=A9WLYbE0p-I): A beginner-friendly video that answers the fundamental question of what virtual memory is and why it's important in operating systems. Easy to follow with clear examples.
+4. [Virtual Memory in Operating Systems](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/): A comprehensive blog post from GeeksforGeeks that delves into virtual memory in operating systems, covering paging, demand paging, and other relevant concepts in-depth. Ideal for both quick review and deeper understanding.
+
 <br>
 
 ---
-###### LastRev: Tuesday, 24 September 2024 22:59
+###### LastRev: Tuesday, 8 October 2024 at 22:06

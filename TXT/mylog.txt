@@ -62,6 +62,17 @@ ZCZC W05 60 L08 Asked teaching assistants regarding TARBALL
 ZCZC W05 120 L05 Study for next quiz
 ZCZC W05 120 L31 Fixed vdb1 mounting on karolinajocelyn disk
 
+===== W06 =====
+ZCZC W06 180 L32 Watched Mr. Anwar Masum's video on Concurrency
+ZCZC W06 180 L16 Did Assignment 6
+ZCZC W06 100 L05 Studied Concurrency concepts, including Processes and Threads
+ZCZC W06 60 L05 Studied for Quiz on Concurrency
+ZCZC W06 30 L01 Checked for updates on OS SCELE
+ZCZC W06 60 L06 Browsed additional resources on Concurrency (Processes & Threads) to supplement learning
+ZCZC W06 30 L08 Discussed Assignment 6 with classmates, focusing on Concurrency issues
+ZCZC W06 45 L31 Experimented with virtual environments to understand process management
+ZCZC W06 60 L08 Discussed quiz questions and clarified doubts with classmates over chat
+
 ===== LOG CODES DESCRIPTION =====
 #ZCZC WEEK# MINUTES LogCode Description
 L00 General, etc.

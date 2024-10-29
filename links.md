@@ -47,6 +47,13 @@ permalink: LINKS/
 3. [But, what is virtual memory?](https://www.youtube.com/watch?v=A9WLYbE0p-I): A beginner-friendly video that answers the fundamental question of what virtual memory is and why it's important in operating systems. Easy to follow with clear examples.
 4. [Virtual Memory in Operating Systems](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/): A comprehensive blog post from GeeksforGeeks that delves into virtual memory in operating systems, covering paging, demand paging, and other relevant concepts in-depth. Ideal for both quick review and deeper understanding.
 
+## W06: Concurrency - Processes & Threads
+
+1. [Process vs Thread - What's the Difference?](https://www.youtube.com/watch?v=-pL2fAdb7Kw): A clear, no-nonsense breakdown of what makes processes and threads different. Great for getting the basics without feeling lost!
+2. [Operating System: Processes and Threads](https://www.youtube.com/watch?v=olYdb0DdGtM): Dives into the roles and structure of processes and threads, explaining why they’re crucial for multitasking. Perfect for building a solid understanding.
+3. [Intro to Concurrency in Operating Systems](https://www.youtube.com/watch?v=Dhf-DYO1K78): An accessible intro to concurrency, covering how OSes juggle multiple tasks with processes and threads. Ideal if you’re new to the topic.
+4. [Concurrency in Operating Systems](https://www.youtube.com/watch?v=OrM7nZcxXZU&list=PLBlnK6fEyqRgKl0MbI6kbI5ffNt7BF8Fn): This playlist takes you through concurrency from the ground up, including key concepts like synchronization and handling race conditions.
+
 <br>
 
 ---

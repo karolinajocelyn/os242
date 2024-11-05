@@ -73,6 +73,17 @@ ZCZC W06 30 L08 Discussed Assignment 6 with classmates, focusing on Concurrency 
 ZCZC W06 45 L31 Experimented with virtual environments to understand process management
 ZCZC W06 60 L08 Discussed quiz questions and clarified doubts with classmates over chat
 
+===== W07 =====
+ZCZC W07 180 L32 Watched Mr. Anwar Masum's video on Threads and Synchronization
+ZCZC W07 180 L17 Completed Assignment 7
+ZCZC W07 100 L05 Studied key concepts in Threads and Synchronization, including mutual exclusion and deadlock
+ZCZC W07 60 L05 Prepared for Quiz on Threads and Synchronization
+ZCZC W07 30 L01 Checked for updates on OS SCELE
+ZCZC W07 60 L06 Reviewed additional resources on Threads and Synchronization (locks, semaphores) for better understanding
+ZCZC W07 30 L08 Discussed Assignment 7 with classmates, focusing on synchronization challenges
+ZCZC W07 45 L31 Set up virtual environments to test thread synchronization techniques
+ZCZC W07 60 L08 Discussed quiz topics and clarified synchronization questions with classmates over chat
+
 ===== LOG CODES DESCRIPTION =====
 #ZCZC WEEK# MINUTES LogCode Description
 L00 General, etc.

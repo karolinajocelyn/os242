@@ -54,7 +54,15 @@ permalink: LINKS/
 3. [Intro to Concurrency in Operating Systems](https://www.youtube.com/watch?v=Dhf-DYO1K78): An accessible intro to concurrency, covering how OSes juggle multiple tasks with processes and threads. Ideal if you’re new to the topic.
 4. [Concurrency in Operating Systems](https://www.youtube.com/watch?v=OrM7nZcxXZU&list=PLBlnK6fEyqRgKl0MbI6kbI5ffNt7BF8Fn): This playlist takes you through concurrency from the ground up, including key concepts like synchronization and handling race conditions.
 
+
+## W07: Threads & Synchronization
+
+1. [Concurrency, Parallelism, and Threads](https://www.youtube.com/watch?v=Z5D3z3AzXII): This video covers concurrency, parallelism, and how threads enable processes to handle multiple tasks at once. It's great for visualizing the difference between concurrency and parallelism within multithreaded environments.
+2. [Multithreading and Concurrency in Operating Systems](https://www.youtube.com/watch?v=ewzdFxTbwBM): A straightforward look into multithreading and concurrency, showing how operating systems use threads to run tasks simultaneously. This video explains thread management and why concurrency is essential for handling modern workloads.
+3. [Thread Synchronization Explained](https://www.youtube.com/watch?v=XWWfpKFmXpY): A practical explanation of thread synchronization, detailing why synchronization is needed to manage threads accessing shared resources. This video covers locks, mutexes, and semaphores, perfect for understanding key synchronization techniques.
+4. [Synchronization Among Threads - IBM Documentation](https://www.ibm.com/docs/en/i/7.3?topic=techniques-synchronization-among-threads): This IBM documentation provides a detailed overview of synchronization techniques, including semaphores, locks, and condition variables. It's a great resource for anyone needing in-depth knowledge of thread coordination and preventing race conditions.
+
 <br>
 
 ---
-###### LastRev: Tuesday, 8 October 2024 at 22:06
+###### LastRev: Tuesday, 8 October 2024 at 19:57

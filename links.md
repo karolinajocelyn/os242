@@ -62,7 +62,14 @@ permalink: LINKS/
 3. [Thread Synchronization Explained](https://www.youtube.com/watch?v=XWWfpKFmXpY): A practical explanation of thread synchronization, detailing why synchronization is needed to manage threads accessing shared resources. This video covers locks, mutexes, and semaphores, perfect for understanding key synchronization techniques.
 4. [Synchronization Among Threads - IBM Documentation](https://www.ibm.com/docs/en/i/7.3?topic=techniques-synchronization-among-threads): This IBM documentation provides a detailed overview of synchronization techniques, including semaphores, locks, and condition variables. It's a great resource for anyone needing in-depth knowledge of thread coordination and preventing race conditions.
 
+## W08: Scheduling
+
+1. [CPU Scheduling Algorithms Overview](https://youtu.be/Gzic0dI3qQc?t=5028): A detailed walkthrough of different CPU scheduling algorithms, discussing how each type optimizes task handling in operating systems.
+2. [Understanding Process Scheduling](https://youtu.be/2h3eWaPx8SA?si=Pofef8tlR8ggwsDE): This video explains the fundamentals of process scheduling, providing insights into key concepts like priority scheduling and time slicing.
+3. [Round Robin Scheduling in Action](https://youtu.be/Jkmy2YLUbUY?si=0zAdeN23i_lCKyMS): A practical explanation of the Round Robin scheduling algorithm, showing how it ensures fair CPU allocation by assigning equal time slots to processes.
+4. [First-Come, First-Served Scheduling](https://youtu.be/K-Q85-gRmaA?si=OYo59INYrxJucCHe): Covers the FCFS scheduling method, where tasks are executed in the order they arrive, and discusses its advantages and potential drawbacks in system performance. 
+
 <br>
 
 ---
-###### LastRev: Tuesday, 8 October 2024 at 19:57
+###### LastRev: Tuesday, 12 November 2024 at 22:17

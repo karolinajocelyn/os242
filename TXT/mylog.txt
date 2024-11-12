@@ -84,6 +84,17 @@ ZCZC W07 30 L08 Discussed Assignment 7 with classmates, focusing on synchronizat
 ZCZC W07 45 L31 Set up virtual environments to test thread synchronization techniques
 ZCZC W07 60 L08 Discussed quiz topics and clarified synchronization questions with classmates over chat
 
+===== W08 =====
+ZCZC W08 180 L32 Watched Mr. Anwar Masum's video on Scheduling
+ZCZC W08 240 L18 Completed Assignment 8
+ZCZC W08 90 L05 Studied key concepts in Scheduling
+ZCZC W08 45 L05 Prepared for Quiz on Scheduling
+ZCZC W08 30 L01 Checked for updates on OS SCELE
+ZCZC W08 45 L06 Reviewed additional resources on Scheduling for better understanding
+ZCZC W08 30 L08 Discussed Assignment 8 with classmates
+ZCZC W08 45 L31 Set up virtual environments to test different scheduling algorithms
+ZCZC W08 45 L08 Discussed quiz topics 
+
 ===== LOG CODES DESCRIPTION =====
 #ZCZC WEEK# MINUTES LogCode Description
 L00 General, etc.

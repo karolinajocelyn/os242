@@ -48,28 +48,30 @@ permalink: LINKS/
 4. [Virtual Memory in Operating Systems](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/): A comprehensive blog post from GeeksforGeeks that delves into virtual memory in operating systems, covering paging, demand paging, and other relevant concepts in-depth. Ideal for both quick review and deeper understanding.
 
 ## W06: Concurrency - Processes & Threads
-
 1. [Process vs Thread - What's the Difference?](https://www.youtube.com/watch?v=-pL2fAdb7Kw): A clear, no-nonsense breakdown of what makes processes and threads different. Great for getting the basics without feeling lost!
 2. [Operating System: Processes and Threads](https://www.youtube.com/watch?v=olYdb0DdGtM): Dives into the roles and structure of processes and threads, explaining why they’re crucial for multitasking. Perfect for building a solid understanding.
 3. [Intro to Concurrency in Operating Systems](https://www.youtube.com/watch?v=Dhf-DYO1K78): An accessible intro to concurrency, covering how OSes juggle multiple tasks with processes and threads. Ideal if you’re new to the topic.
 4. [Concurrency in Operating Systems](https://www.youtube.com/watch?v=OrM7nZcxXZU&list=PLBlnK6fEyqRgKl0MbI6kbI5ffNt7BF8Fn): This playlist takes you through concurrency from the ground up, including key concepts like synchronization and handling race conditions.
 
-
 ## W07: Threads & Synchronization
-
 1. [Concurrency, Parallelism, and Threads](https://www.youtube.com/watch?v=Z5D3z3AzXII): This video covers concurrency, parallelism, and how threads enable processes to handle multiple tasks at once. It's great for visualizing the difference between concurrency and parallelism within multithreaded environments.
 2. [Multithreading and Concurrency in Operating Systems](https://www.youtube.com/watch?v=ewzdFxTbwBM): A straightforward look into multithreading and concurrency, showing how operating systems use threads to run tasks simultaneously. This video explains thread management and why concurrency is essential for handling modern workloads.
 3. [Thread Synchronization Explained](https://www.youtube.com/watch?v=XWWfpKFmXpY): A practical explanation of thread synchronization, detailing why synchronization is needed to manage threads accessing shared resources. This video covers locks, mutexes, and semaphores, perfect for understanding key synchronization techniques.
 4. [Synchronization Among Threads - IBM Documentation](https://www.ibm.com/docs/en/i/7.3?topic=techniques-synchronization-among-threads): This IBM documentation provides a detailed overview of synchronization techniques, including semaphores, locks, and condition variables. It's a great resource for anyone needing in-depth knowledge of thread coordination and preventing race conditions.
 
 ## W08: Scheduling
-
 1. [CPU Scheduling Algorithms Overview](https://youtu.be/Gzic0dI3qQc?t=5028): A detailed walkthrough of different CPU scheduling algorithms, discussing how each type optimizes task handling in operating systems.
 2. [Understanding Process Scheduling](https://youtu.be/2h3eWaPx8SA?si=Pofef8tlR8ggwsDE): This video explains the fundamentals of process scheduling, providing insights into key concepts like priority scheduling and time slicing.
 3. [Round Robin Scheduling in Action](https://youtu.be/Jkmy2YLUbUY?si=0zAdeN23i_lCKyMS): A practical explanation of the Round Robin scheduling algorithm, showing how it ensures fair CPU allocation by assigning equal time slots to processes.
 4. [First-Come, First-Served Scheduling](https://youtu.be/K-Q85-gRmaA?si=OYo59INYrxJucCHe): Covers the FCFS scheduling method, where tasks are executed in the order they arrive, and discusses its advantages and potential drawbacks in system performance. 
 
+## W09: Storage, Firmware, Bootloader, & Systemd
+1. [Understanding Firmware and Bootloaders](https://www.youtube.com/watch?v=UI9M2X6Z6Vs): A comprehensive introduction to firmware and bootloaders, covering their roles in initializing hardware and loading the operating system.
+2. [Systemd Basics and Boot Process](https://youtu.be/3YfZcNUhBKY?si=ZATe-JIVuOv8rBLS): This video dives into how Systemd operates as an initialization system and its significance in managing the boot process.
+3. [Storage Fundamentals in Linux](https://youtu.be/YcRd3WMbXnE?si=rRx7gaNijhNuSG_L): An insightful overview of storage systems, including file systems and disk partitioning in Linux.
+4. [Boot Process Explained](https://youtu.be/XpFsMB6FoOs?si=L-LC5_PQjyHxYw6N): A detailed explanation of the complete boot process, from power-on to reaching a fully operational Linux system.
+
 <br>
 
 ---
-###### LastRev: Tuesday, 12 November 2024 at 22:17
+###### LastRev: Tuesday, 19 November 2024 at 21:29

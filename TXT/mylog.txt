@@ -95,6 +95,17 @@ ZCZC W08 30 L08 Discussed Assignment 8 with classmates
 ZCZC W08 45 L31 Set up virtual environments to test different scheduling algorithms
 ZCZC W08 45 L08 Discussed quiz topics 
 
+===== W09 =====
+ZCZC W09 180 L32 Watched Mr. Anwar Masum's video on Storage, Firmware, Bootloader, & Systemd
+ZCZC W09 240 L19 Completed Assignment 9
+ZCZC W09 90 L05 Studied key concepts in Storage, Firmware, Bootloader, & Systemd
+ZCZC W09 45 L05 Prepared for Quiz on Storage, Firmware, Bootloader, & Systemd
+ZCZC W09 30 L01 Checked for updates on OS SCELE
+ZCZC W09 45 L06 Reviewed additional resources on Storage, Firmware, Bootloader, & Systemd for better understanding
+ZCZC W09 30 L08 Discussed Assignment 9 with classmates
+ZCZC W09 45 L31 Set up virtual environments to test storage configurations and bootloader setup
+ZCZC W09 45 L08 Discussed quiz topics and clarified doubts with classmates
+
 ===== LOG CODES DESCRIPTION =====
 #ZCZC WEEK# MINUTES LogCode Description
 L00 General, etc.

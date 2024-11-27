@@ -106,6 +106,15 @@ ZCZC W09 30 L08 Discussed Assignment 9 with classmates
 ZCZC W09 45 L31 Set up virtual environments to test storage configurations and bootloader setup
 ZCZC W09 45 L08 Discussed quiz topics and clarified doubts with classmates
 
+===== W10 =====
+ZCZC W10 375 L20 Completed Assignment 10
+ZCZC W10 90 L05 Studied key concepts in I/O & Programming
+ZCZC W10 60 L05 Prepared for Quiz on I/O & Programming
+ZCZC W10 30 L01 Checked for updates on OS SCELE
+ZCZC W10 60 L06 Reviewed additional resources on I/O & Programming
+ZCZC W10 60 L08 Discussed Assignment 10 with classmates
+ZCZC W10 45 L31 Practiced exercises related to I/O concepts
+
 ===== LOG CODES DESCRIPTION =====
 #ZCZC WEEK# MINUTES LogCode Description
 L00 General, etc.

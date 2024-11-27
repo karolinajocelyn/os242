@@ -71,7 +71,13 @@ permalink: LINKS/
 3. [Storage Fundamentals in Linux](https://youtu.be/YcRd3WMbXnE?si=rRx7gaNijhNuSG_L): An insightful overview of storage systems, including file systems and disk partitioning in Linux.
 4. [Boot Process Explained](https://youtu.be/XpFsMB6FoOs?si=L-LC5_PQjyHxYw6N): A detailed explanation of the complete boot process, from power-on to reaching a fully operational Linux system.
 
+## W10: I/O & Programming
+1. [Introduction to I/O in Linux](https://www.youtube.com/watch?v=gh1W12_fyeQ): This video provides a foundational understanding of Input/Output operations in Linux, focusing on how the operating system interacts with devices and manages data flow between hardware and applications.
+2. [Advanced I/O Programming Techniques](https://www.youtube.com/playlist?list=PLgwJf8NK-2e476PGksxDe8plqrBQBjX8w): This comprehensive playlist delves into advanced I/O programming techniques. It covers topics such as buffered I/O, direct I/O, and asynchronous I/O, along with practical programming examples.
+3. [File I/O in C Programming](https://www.youtube.com/watch?v=f_AMb0MGRFA): A tutorial focused on file Input/Output in C programming. It explains concepts like reading, writing, opening, and closing files, with practical demonstrations to reinforce learning.
+4. [Introduction to Input/Output Processors](https://www.geeksforgeeks.org/introduction-of-input-output-processor/): A detailed article discussing Input/Output Processors (IOPs), their architecture, and their role in managing communication between the CPU and peripheral devices. It provides theoretical insights essential for understanding the hardware aspect of I/O programming.
+
 <br>
 
 ---
-###### LastRev: Tuesday, 19 November 2024 at 21:29
+###### LastRev: Tuesday, 27 November 2024 at 18:38
